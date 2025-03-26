@@ -10,7 +10,7 @@ print(f('({die1},{die2})')
        print('Thanks for playing!')
        break:
 else:
-  print('Invalid chpice!')
+  print('Invalid choice!')
 
 
 
